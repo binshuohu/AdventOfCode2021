@@ -3,6 +3,6 @@ object Main {
     val inputFile = "/Users/binshuo/input.txt"
 
     val input = TextReader.readFromFile(inputFile)
-    println(Day02.b(input))
+    println(Day03.b(input))
   }
 }
