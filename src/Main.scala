@@ -5,7 +5,7 @@ object Main {
     val inputFile = "/Users/binshuo/input.txt"
 
     val input = TextReader.readFromFile(inputFile)
-    println(Day09.a(input))
-    println(Day09.b(input))
+    println(Day10.a(input))
+    println(Day10.b(input))
   }
 }
